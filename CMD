@@ -1,0 +1,7 @@
+管理员身份进入CMD
+
+//调用帮助文档
+manage-bde -?
+
+//锁定已解锁盘符,如f盘
+manage-bde -lock f:
